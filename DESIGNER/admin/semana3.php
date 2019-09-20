@@ -31,10 +31,10 @@ require '../secciones/admin/header.php';
           <table class="table table-bordered">
             <tbody>
               <tr>
-                <td rowspan="3">
+                <td rowspan="3" style="background-color: #2F4F4F">
                   <img src="../utilidades/boole.png">
                 </td>
-                <td ><b>Descripcion De La Tarea</b></td>
+                <td style="background-color: #00CED1"><b>Descripcion De La Tarea</b></td>
               </tr>
 
               <tr>

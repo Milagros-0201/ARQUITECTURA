@@ -48,6 +48,12 @@ require '../secciones/admin/header.php';
 								<h3>Evolucion y Tipos de Arquitectura</h3>
 							</div>   
 						</div>
+						<div class="carousel-item">
+							<img src="../utilidades/componentes.png" alt="New York" width="600" height="500">
+							<div class="carousel-caption" style="color:#151515;">
+								<h3>Componentes Del Computador</h3>
+							</div>   
+						</div>
 					</div>
 					<a class="carousel-control-prev" href="#demo" data-slide="prev">
 						<span class="carousel-control-prev-icon"></span>
