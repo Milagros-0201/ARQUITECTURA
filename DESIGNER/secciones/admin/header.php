@@ -79,12 +79,6 @@
                 <div class="divider-li">
                     <i class="fas fa-boxes"></i><a href="#">GESTION DE TAREAS</a>
                 </div>
-                
-                <!-- <li>
-                    <i class="fas fa-search"></i>
-                    <a href="semana1.php">Semana 1</a>
-                </li> -->
-
                 <li>
                     <i class="fas fa-file-alt"></i>
                     <a href="semana2.php">Semana 2</a>
