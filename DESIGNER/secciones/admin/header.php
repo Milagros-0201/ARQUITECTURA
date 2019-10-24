@@ -99,6 +99,14 @@
                     <i class="fas fa-file-alt"></i>
                     <a href="semana6.php">Semana 6</a>
                 </li>
+                <li>
+                    <i class="fas fa-file-alt"></i>
+                    <a href="semana8.php">Semana 8</a>
+                </li>
+                <li>
+                    <i class="fas fa-file-alt"></i>
+                    <a href="semana9.php">Semana 9</a>
+                </li>
             </ul>
         </div>
         <!--/col-->
