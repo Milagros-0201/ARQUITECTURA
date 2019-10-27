@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+    <meta http-equiv='Content-Type' content='text/html charset=UTF-8' />
+    <title>Notificacion</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+</head>
+<body style='margin: 0 padding: 0'>
+
+    <table class="table-titulo" align='center' cellpadding='0' cellspacing='0' width='600' >
+        <tr>
+            <td bgcolor='#27AE60'>
+             <center style='padding: 0px 0px 0px 0px; color: white;'>
+                 <h4>SISTEMA DE BOLETAS - UGEL CHINCHA 2019</h4>
+             </center>
+            </td>
+        </tr>
+       
+        <tr>
+            <td align='center' style='padding: 30px 0 30px 0;' bgcolor='#FFFFFF'>
+                <img src='https://www.ugelchincha.gob.pe/wp-content/uploads/2016/11/logo.png' alt='Creating Email Magic' width='510' height='90' style='display: block' />
+            </td>
+        </tr>
+    </table>
+
+    <table align='center' border='0' cellpadding='0' cellspacing='0' width='600'>
+        <tr>
+            <td align='center' bgcolor='aliceblue' style='padding: 30px 0 30px 0'>
+                <img src='https://png.pngtree.com/element_origin_min_pic/16/07/05/13577b47fbd707b.jpg' alt='Creating Email Magic' width='250' height='215' style='display: block' />
+            </td>
+        </tr>
+
+            <style>
+                body{
+                    font-family: 'Helvetica Neue', Helvetica, Arial;
+                    background: #ECECEC;
+                }
+
+                .table-titulo{
+                    font-size: 18px;
+                    border:0;
+                }
+
+                .row{
+                    display: table-row;
+                    
+                }
+                .table-datos{
+
+                    border: medium transparent;
+                }
+
+                .table-header{
+
+                    font-size: 14px;
+                }
+            </style>
+
+        <tr>
+            <td bgcolor='#FFFFFF'>
+                
+                <table border='0' cellpadding='0' cellspacing='0' width='100%'>
+                    <tr>
+                        <td style='color: #153643; font-family: Arial, sans-serif; font-size: 24px; padding: 5px 30px 5px 30px;'>
+                            <center>
+                                <h3>¡HOLA {{nombre_apellido}}!</h3>
+                            </center>
+                        </td>
+                    </tr>      
+
+                    <tr>
+                        <td> 
+                           <p style='color: #153643; font-family: Arial, sans-serif; font-size: 14px; padding: 5px 30px 5px 30px;'>
+                               Le damos la bienvenida a nuestro sistema.
+                           </p>
+                        <table class="table-datos" align='center' style='text-align: center; font-size: 14px;' border='1' cellpadding='10' cellspacing='0' width='400'>
+                            <tr class="row table" bgcolor='#2980b9' style='color: white;'>
+                                <td><strong>Tipo de usuario</strong></td>
+                                <td><strong>Usuario</strong></td>
+                                <td><strong>Contraseña</strong></td>
+                                <td><strong>Estado</strong></td>
+                            </tr>
+                            <tr style='background: #E7E7E7;'>
+                                <td>{{tipo_usuario}}</td>
+                                <td>{{nom_usuario}}</td>
+                                <td>{{contrasenia}}</td>
+                                <td>{{estado}}</td>
+                            </tr>
+                        </table>
+                        <p style='color: #153643; font-family: Arial, sans-serif; font-size: 14px; padding: 5px 30px 5px 30px;'>
+                              Atentamente: Administrador
+                        </p>
+                        </td>
+                    </tr>    
+               
+                    <table class="table-header" align='center' border='0' cellpadding='0' cellspacing='0' width='600'>
+                        <tr><br></br>
+                            <td bgcolor='#808B96'>
+                            <center style='padding: 0px 0px 0px 0px; color: white;'>
+                                <h4>© 2019 - UGEL Chincha. Todos los derechos reservados | UGELCH 1.0 |</h4>
+                            </center>
+                            </td>
+                        </tr>
+                    </table>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
