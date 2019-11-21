@@ -24,8 +24,8 @@ require '../secciones/admin/header.php';
 
         
         <div class="container">
-          <h2>Semana 12</h2>
-          <h6>“Hardware (unidad central y periféricos)”</h6>
+          <h2>Semana 13</h2>
+          <h6>Hardware (unidad central y periféricos)</h6>
 
           <p></p>            
           <table class="table table-bordered" style="border-width: #32CD32">
@@ -38,9 +38,9 @@ require '../secciones/admin/header.php';
               </tr>
 
               <tr>
-                <td rowspan="3">El presente trabajo buscar desarrollar que nosotros como estudiantes tengamos conocimientos sobre conceptualizaciones de la unidad central y sus periféricos en el área de informática
+                <td rowspan="3">El presente proyecto de investigación está orientado en cuál importante es saber las unidades centra y periféricos y los conceptos relevante del Hardware de un sistema informático.
                   <br>
-                  <a class="enlace" target="_blank" href="https://drive.google.com/file/d/1PzlO6_-R6xl87jA9yqbMaSjmHghv1LeE/view"> ir a mi tarea</a>
+                  <a class="enlace" target="_blank" href="https://drive.google.com/file/d/1wQf8Ty0f_6DNq-lGJ5SzPXjn_PFYewCW/view"> ir a mi tarea</a>
                   <br>
                   </td>
 
